@@ -1,5 +1,5 @@
 # teleDownloader
-## [联系作者，定制下载机器人 | Contact the author to customize the downloader ](https://t.me/Saturday_test)
+## [联系作者，定制下载器 | Contact the author to customize the downloader ](https://t.me/Saturday_test)
 ## 电报下载器 | A telegram downloader
 ## 功能列表 | Function List
 - [x] 协议号登录 | Session account login
