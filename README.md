@@ -1,5 +1,5 @@
 # teleDownloader
-## [联系作者，定制下载机器人](https://t.me/Saturday_test)
+## [联系作者，定制下载机器人 | Contact the author to customize the downloader ](https://t.me/Saturday_test)
 ## 电报下载器 | A telegram downloader
 ## 功能列表 | Function List
 - [x] 协议号登录 | Session account login
@@ -13,4 +13,4 @@
 - [x] 支持大文件搬运 | Support large file transfer
 - [x] 搬运后的文件有缩略图，支持流式查看 | The moved files have thumbnails and support streaming viewing
 - [x] 防洪机制 | Anti-flood mechanism
-- [x] 电报机器人调用，24H搬运 | Telegram robot call, 24 hours forwarding
+- [x] 支持电报机器人调用，24H搬运 | Support telegram robot call, 24 hours forwarding
